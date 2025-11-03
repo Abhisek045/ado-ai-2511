@@ -1,0 +1,3 @@
+# No external dependencies required; this project uses the Python standard library (argparse, json).
+# If you add third-party libraries, list them here, for example:
+# requests==2.31.0
